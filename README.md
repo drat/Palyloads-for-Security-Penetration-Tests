@@ -1,19 +1,19 @@
-# Payloads All The Things
+# Payloads for Security Penetration Tests
 
-A list of useful payloads and bypasses for Web Application Security.
-Feel free to improve with your payloads and techniques !
-I :heart: pull requests :)
+Daftar muatan dan bypass berguna untuk Keamanan Aplikasi Web.
+Jangan ragu untuk meningkatkan dengan muatan dan teknik Anda!
+I: jantung: tarik permintaan :)
 
-You can also contribute with a :beers: IRL
+Anda juga dapat berkontribusi dengan: bir: IRL
 
-Every section contains the following files, you can use the `_template_vuln` folder to create a new chapter:
+Setiap bagian berisi file-file berikut, Anda dapat menggunakan folder `_template_vuln` untuk membuat bab baru:
 
-- README.md - vulnerability description and how to exploit it
-- Intruder - a set of files to give to Burp Intruder
-- Images - pictures for the README.md
-- Files - some files referenced in the README.md
+- README.md - deskripsi kerentanan dan cara memanfaatkannya
+- Penyusup - satu set file untuk diberikan kepada Penyusup Burp
+- Gambar - gambar untuk README.md
+- File - beberapa file yang direferensikan dalam README.md
 
-You might also like the `Methodology and Resources` folder :
+Anda mungkin juga menyukai folder `Metodologi dan Sumberdaya`:
 
 - [Methodology and Resources](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
   - [Active Directory Attack.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md)
